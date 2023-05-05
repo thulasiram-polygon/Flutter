@@ -6,7 +6,7 @@ This is a Flutter mobile demo app that demonstrates how to integrate Metamask wa
 
 To get started with the app, you need to have Flutter installed on your machine. Once you have Flutter installed, you can follow these steps:
 
-1. Clone the repository: `git clone https://github.com/thulasiram-polygon/MobileWeb3ConnectFlutter.git`
+1. Clone the repository: `git clone https://github.com/thulasiram-polygon/Flutter-Web3-Demo.git`
 2. Change into the project directory: `cd flutter-web3-demo`
 3. Run `flutter pub get` to install dependencies.
 4. Run the app: `flutter run`
