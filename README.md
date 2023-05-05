@@ -1,6 +1,6 @@
 # Flutter Mobile Demo App with Metamask & WalletConnect Integration
 
-This is a Flutter mobile demo app that demonstrates how to integrate Metamask wallet for transactions. The app is built using the Flutter framework and it allows users to connect their Metamask wallet to make transactions.
+This is a Flutter mobile demo app that demonstrates how to communicate with Metamask wallet from a mobile app for executing transactions. The app is built using the Flutter framework and it allows users to connect this mobile Dapp to their existing Metamask wallet mobile app to make transactions.
 
 ## Getting Started
 
